@@ -1,6 +1,1 @@
-Hello,
-
-My name is Tyler Ditlow. 
-
-I am currently learning software development and engineering,
-and have been focusing on Python and Java.
+I am Tyler Ditlow, a software engineering student based in South Jersey. I am currently studying Android and database development.
